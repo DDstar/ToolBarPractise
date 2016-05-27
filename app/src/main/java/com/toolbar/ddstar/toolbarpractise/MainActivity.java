@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void go2ToolBar(View v) {
-        startActivity(new Intent(this,ToolBarAct.class));
+        startActivity(new Intent(this,MyToolBar.class));
     }
 }
